@@ -1,4 +1,4 @@
-# Analysis of Loan Amounts received by applicants
+# Analysis of loan amounts received by applicants
 
 <br>
 <img src="https://usmtg.com/usmtgmd/wp-content/uploads/sites/7/2020/04/20200406144106-GettyImages-1023100020.jpeg"
